@@ -1,3 +1,6 @@
+# Ejecución
+Para ejecutar el código solo debe correrse main.py. Los valores de las variables deben ser seteadas en el mismo archivo y llevan el mismo nombre que en el enunciado (a, b, x, y)
+
 # Solución
 
 ## Lógica general
